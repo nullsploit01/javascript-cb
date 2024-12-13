@@ -1,0 +1,20 @@
+1234 Maple Street, Springfield, IL 62704     4567 Oak Lane, Los Angeles, CA 90001  
+789 Pine Avenue, Denver, CO 80202     1012 Birchwood Drive, Miami, FL 33101  
+3157 Elmwood Boulevard, New York, NY 10001     2407 Riverside Road, San Francisco, CA 94111  
+912 Cedar Park, Austin, TX 73301     88 Kingsley Way, Chicago, IL 60611  
+23 Oakbrook Terrace, Dallas, TX 75201     1476 Willowbrook Circle, Atlanta, GA 30303  
+5671 Westend Drive, Boston, MA 02118     2908 High Street, Seattle, WA 98103  
+56 Pinehurst Avenue, Raleigh, NC 27601     7810 Sunset Boulevard, Suite 206, Los Angeles, CA 90028  
+2150 Birch Street, St. Louis, MO 63101     304 North Park Avenue, Orlando, FL 32801  
+1234 Greenhill Road, Portland, OR 97201     8001 Ashford Avenue, Apartment 3B, Miami Beach, FL 33139  
+3495 Lakeview Crescent, Charlotte, NC 28202     1702 Westfield Drive, Salt Lake City, UT 84101  
+28 Magnolia Crescent, Kansas City, MO 64105     5050 Riverstone Lane, Nashville, TN 37203  
+3502 Red Rock Road, Las Vegas, NV 89101     1033 Foothill Boulevard, Apartment 101, Pasadena, CA 91107  
+5210 Lexington Road, Louisville, KY 40203     2254 Greenway Boulevard, Apartment 2D, Chicago, IL 60614  
+1995 Lakeview Drive, Unit 3, Orlando, FL 32804     1327 Westover Circle, Nashville, TN 37215  
+918 Terrace Way, San Diego, CA 92101     4809 Cardinal Lane, Unit 4, Denver, CO 80223  
+3466 Old Maple Road, Apartment 7C, Seattle, WA 98109     2312 Birchwood Street, Unit 10, Miami, FL 33131  
+8765 Pine Ridge Road, Apartment 202, Houston, TX 77001     1453 Oakwood Drive, Atlanta, GA 30305  
+2217 Maple Court, Apartment 405, Los Angeles, CA 90046     1133 Lakeside Drive, Suite 3B, Chicago, IL 60601  
+5467 Green Hill Parkway, Unit 6, Salt Lake City, UT 84102     3245 Beacon Avenue, Apartment 506, Boston, MA 02127  
+8788 Summit Drive, Apartment 21A, Phoenix, AZ 85001     9823 Country Club Drive, Unit 2B, Dallas, TX 75205
